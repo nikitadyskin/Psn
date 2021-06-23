@@ -1,0 +1,8 @@
+continuo1,discreto1,continuo2,discreto2,class
+1,A,8,C,res1
+2,A,9,C,res2
+3,,10,C,res3
+,A,,,res3
+5,,11,D,res1
+,B,,C,res3
+7,B,12,D,res1
